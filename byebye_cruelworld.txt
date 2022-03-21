@@ -1,0 +1,3 @@
+Life is hard
+but it could be harder
+without git 
